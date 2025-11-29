@@ -77,11 +77,3 @@ GPT 모델을 통해 자연스러운 답변을 생성합니다.
 
 ---
 
-## 💡 향후 개선 방향 (선택 사항)
-
-* PDF chunking + 임베딩 기반 RAG(Vector DB)로 확장
-* Chroma / PGVector를 활용한 고정밀 문서 검색
-* Streamlit UI 개선 및 파일 업로드 기능 추가
-* GPT 함수 호출(Function Calling) 기반 정보 추출 강화
-
----
